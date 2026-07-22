@@ -1,0 +1,6 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,15 C150,0 150,0 300,15 C450,30 450,30 600,15 C750,0 750,0 900,15 C1050,30 1050,30 1200,15 L1200,75 L0,75 Z" fill="#FCD116"/>
+  <path d="M0,75 L1200,75 L1200,112 C1050,127 1050,127 900,112 C750,97 750,97 600,112 C450,127 450,127 300,112 C150,97 150,97 0,112 Z" fill="#003893"/>
+  <path d="M0,112 C150,97 150,97 300,112 C450,127 450,127 600,112 C750,97 750,97 900,112 C1050,127 1050,127 1200,112 L1200,150 L0,150 Z" fill="#CE1126"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#042C53">GIOVANNI TORRES · MADE IN COLOMBIA 🇨🇴</text>
+</svg>
