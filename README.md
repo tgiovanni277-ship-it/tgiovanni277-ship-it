@@ -1,16 +1,53 @@
-## Hi there 👋
+<h3 align="center">
 
-<!--
-**tgiovanni277-ship-it/tgiovanni277-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="./linkedin_banner10.png" alt="header" width="100%" />
 
-Here are some ideas to get you started:
+  Welcome, I'm Giovanni Torres!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![img](https://img.shields.io/badge/Role-AI_Engineer_Enthusiast-4FD8EF.svg?style=flat-square)
+![img](https://img.shields.io/badge/Systems_Engineering-8th_semester-FFB454.svg?style=flat-square)
+![img](https://img.shields.io/badge/Based_in-Colombia_%F0%9F%87%A8%F0%9F%87%B4-003893.svg?style=flat-square)
+![img](https://img.shields.io/badge/English-C1-CE1126.svg?style=flat-square)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FD8EF&center=true&vCenter=true&height=30&lines=Building+ML+systems+from+data+to+deployment;Math+%26+stats+foundation+%E2%86%92+Machine+Learning;Systems+Engineering+%40+Universidad+Santo+Tom%C3%A1s)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tgiovanni277-ship-it&label=profile+views&color=4FD8EF&style=flat" alt="tgiovanni277-ship-it" /></p>
+
+</h3>
+
+<a href="https://www.linkedin.com/in/giovanni-torres-b48338397" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45px" width="45px" alt="LinkedIn" align="right"></a>
+<a href="mailto:tgiovanni277@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45px" width="45px" alt="Email" align="right"></a>
+
+Hey! I'm an 8th-semester Systems Engineering student at Universidad Santo Tomás (Tunja, Colombia), currently interning as an **AI Engineer**. My background is math and stats heavy (calculus, linear algebra, probability & statistics), which I'm now applying to machine learning — going from data, to a trained model, to an API, to something actually deployed.
+
+I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fundamentals from earlier coursework, so I move comfortably between backend logic and applied ML.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+</p>
+
+<a href="https://github.com/tgiovanni277-ship-it"><img alt="Giovanni's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tgiovanni277-ship-it&show_icons=true&title_color=4FD8EF&icon_color=FFB454&text_color=9FB3C8&bg_color=0A1F33&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/tgiovanni277-ship-it"><img alt="Giovanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgiovanni277-ship-it&langs_count=8&layout=compact&hide_border=true&bg_color=0A1F33&title_color=4FD8EF&text_color=9FB3C8" height="192px"/></a>
+
+<br/>
+
+### Featured projects
+
+| Project | Description |
+|---|---|
+| **[ML_ChatBot](https://github.com/tgiovanni277-ship-it/ML_ChatBot)** | Spanish conversational chatbot using RAG (Retrieval-Augmented Generation) |
+| **[PDS-006-Servicios](https://github.com/tgiovanni277-ship-it/PDS-006-Servicios)** | System for tracking external technology and biomedical equipment |
+
+<br/>
+
+![footer](./colombia_footer.svg)
+
+------
+Last edited on: 22/07/2026
+
