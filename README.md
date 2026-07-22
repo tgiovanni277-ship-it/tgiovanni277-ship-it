@@ -32,8 +32,7 @@ I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fun
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
-<a href="https://github.com/tgiovanni277-ship-it"><img alt="Giovanni's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=tgiovanni277-ship-it&show_icons=true&title_color=4FD8EF&icon_color=FFB454&text_color=9FB3C8&bg_color=0A1F33&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/tgiovanni277-ship-it"><img alt="Giovanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgiovanni277-ship-it&langs_count=8&layout=compact&hide_border=true&bg_color=0A1F33&title_color=4FD8EF&text_color=9FB3C8" height="192px"/></a>
+
 
 <br/>
 
