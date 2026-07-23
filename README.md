@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/giovanni-torres-b48338397" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45px" width="45px" alt="LinkedIn" align="right"></a>
 <a href="mailto:tgiovanni277@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45px" width="45px" alt="Email" align="right"></a>
 
-Hey! I'm an 8th-semester Systems Engineering student at Universidad Santo Tomás (Tunja, Colombia), currently interning as an **AI Engineer**. My background is math and stats heavy (calculus, linear algebra, probability & statistics), which I'm now applying to machine learning — going from data, to a trained model, to an API, to something actually deployed.
+Hey! I'm an 8th-semester Systems Engineering student at Universidad Santo Tomás (Tunja, Colombia), currently interning as an **AI Engineer**. 
 
 I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fundamentals from earlier coursework, so I move comfortably between backend logic and applied ML.
 
