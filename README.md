@@ -34,11 +34,11 @@ I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fun
 <br/>
 
 ### Featured projects
-
 | Project | Description |
 |---|---|
 | **[ML_ChatBot](https://github.com/tgiovanni277-ship-it/ML_ChatBot)** | Spanish conversational chatbot using RAG (Retrieval-Augmented Generation) |
 | **[PDS-006-Servicios](https://github.com/tgiovanni277-ship-it/PDS-006-Servicios)** | System for tracking external technology and biomedical equipment |
+| **[GodewValley](https://github.com/tgiovanni277-ship-it/GodewValley)** | 2D farming simulation game built with Godot Engine 4 & GDScript — plant, grow, and sell coffee crops |
 
 <br/>
 
