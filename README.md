@@ -9,7 +9,7 @@
 ![img](https://img.shields.io/badge/Based_in-Colombia_%F0%9F%87%A8%F0%9F%87%B4-003893.svg?style=flat-square)
 ![img](https://img.shields.io/badge/English-C1-CE1126.svg?style=flat-square)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FD8EF&center=true&vCenter=true&height=30&lines=Building+ML+systems+Systems+Engineering+%40+Universidad+Santo+Tom%C3%A1s)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FD8EF&center=true&vCenter=true&height=30&lines=Software+Engineer+%40+Universidad+Santo+Tom%C3%A1s)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tgiovanni277-ship-it&label=profile+views&color=4FD8EF&style=flat" alt="tgiovanni277-ship-it" /></p>
 
