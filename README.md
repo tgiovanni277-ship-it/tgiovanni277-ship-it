@@ -1,26 +1,16 @@
 <h3 align="center">
   <img src="./linkedin_banner10.png" alt="header" width="100%" />
   <br/><br/>
-  
   Welcome, I'm Giovanni Torres!
-  
   <br/><br/>
-  
   <img src="https://santototunja.edu.co/wp-content/uploads/2024/11/logo-santoto-tunja-oct-nov.png" alt="Universidad Santo Tomás" width="150" />
-  
   <br/><br/>
 
 ![img](https://img.shields.io/badge/Role-AI_Engineer_Enthusiast-4FD8EF.svg?style=flat-square)
 ![img](https://img.shields.io/badge/Systems_Engineering-8th_semester-FFB454.svg?style=flat-square)
 ![img](https://img.shields.io/badge/Based_in-Colombia_%F0%9F%87%A8%F0%9F%87%B4-003893.svg?style=flat-square)
 ![img](https://img.shields.io/badge/English-C1-CE1126.svg?style=flat-square)
-
-<br/>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FD8EF&center=true&vCenter=true&width=750&height=40&size=24&lines=Software+Engineer+%40+Universidad+Santo+Tomas)
-
-<br/>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tgiovanni277-ship-it&label=profile+views&color=4FD8EF&style=flat" alt="tgiovanni277-ship-it" /></p>
 </h3>
 <a href="https://www.linkedin.com/in/giovanni-torres-b48338397" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45px" width="45px" alt="LinkedIn" align="right"></a>
@@ -45,3 +35,4 @@ I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fun
 <br/>
 ![footer](./colombia_footer.png)
 ------
+Last edited on: 22/07/2026
