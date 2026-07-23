@@ -34,5 +34,3 @@ I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fun
 | **[PDS-006-Servicios](https://github.com/tgiovanni277-ship-it/PDS-006-Servicios)** | System for tracking external technology and biomedical equipment |
 <br/>
 ![footer](./colombia_footer.png)
-------
-Last edited on: 22/07/2026
