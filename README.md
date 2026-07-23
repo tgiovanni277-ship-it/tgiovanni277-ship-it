@@ -4,6 +4,7 @@
 
   Welcome, I'm Giovanni Torres!
 
+ <img src="https://santototunja.edu.co/wp-content/uploads/2024/11/logo-santoto-tunja-oct-nov.png" alt="Universidad Santo Tomás" width="70" />
 ![img](https://img.shields.io/badge/Role-AI_Engineer_Enthusiast-4FD8EF.svg?style=flat-square)
 ![img](https://img.shields.io/badge/Systems_Engineering-8th_semester-FFB454.svg?style=flat-square)
 ![img](https://img.shields.io/badge/Based_in-Colombia_%F0%9F%87%A8%F0%9F%87%B4-003893.svg?style=flat-square)
