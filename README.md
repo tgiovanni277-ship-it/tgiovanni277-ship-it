@@ -45,4 +45,3 @@ I'm bilingual (English C1, lived in the US for 3 years) and I also have Java fun
 <br/>
 ![footer](./colombia_footer.png)
 ------
-Last edited on: 22/07/2026
