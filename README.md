@@ -15,9 +15,8 @@
 </h3>
 
 <a href="https://www.linkedin.com/in/giovanni-torres-b48338397" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45px" width="45px" alt="LinkedIn" align="right"></a>
-<a href="mailto:tgiovanni277@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45px" width="45px" alt="Email" align="right"></a>
 
-Systems Engineering student (8th semester, Universidad Santo Tomás) with a strong math/stats foundation, now applying it to AI Engineering. Currently looking for a Intership as an AI Engineer, moving comfortably between backend logic and applied ML.
+Systems Engineering student (8th semester, Universidad Santo Tomás) with a strong math/stats foundation, now applying it to AI Engineering. Currently looking for an Intership as an AI Engineer, moving comfortably between backend logic and applied ML.
 
 Recent coursework and hands-on projects include:
 
