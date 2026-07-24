@@ -52,4 +52,4 @@ Fluent in English (C1) and Spanish. Open to AI Engineer, Backend Developer, and 
 | **[PDS-006-Servicios](https://github.com/tgiovanni277-ship-it/PDS-006-Servicios)** | System for tracking external technology and biomedical equipment |
 | **[GodewValley](https://github.com/tgiovanni277-ship-it/GodewValley)** | 2D farming simulation game built with Godot Engine 4 & GDScript — plant, grow, and sell coffee crops |
 <br/>
-![footer](./colombia_footer.png)
+
