@@ -5,36 +5,3 @@
   <img src="https://santototunja.edu.co/wp-content/uploads/2024/11/logo-santoto-tunja-oct-nov.png" alt="Universidad Santo Tomás" width="150" />
   <br/><br/>
 
-![img](https://img.shields.io/badge/Role-AI_Engineer_Enthusiast-4FD8EF.svg?style=flat-square)
-![img](https://img.shields.io/badge/Systems_Engineering-8th_semester-FFB454.svg?style=flat-square)
-![img](https://img.shields.io/badge/Based_in-Colombia_%F0%9F%87%A8%F0%9F%87%B4-003893.svg?style=flat-square)
-![img](https://img.shields.io/badge/English-C1-CE1126.svg?style=flat-square)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FD8EF&center=true&vCenter=true&width=850&height=40&size=24&lines=Software+Engineer+%40+Universidad+Santo+Tomas)
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tgiovanni277-ship-it&label=profile+views&color=4FD8EF&style=flat" alt="tgiovanni277-ship-it" /></p>
-</h3>
-
-<a href="https://www.linkedin.com/in/giovanni-torres-b48338397" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45px" width="45px" alt="LinkedIn" align="right"></a>
-
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-</p>
-
-<br/>
-
-### Featured projects
-| Project | Description |
-|---|---|
-| **[ML_ChatBot](https://github.com/tgiovanni277-ship-it/ML_ChatBot)** | Spanish conversational chatbot using RAG (Retrieval-Augmented Generation) |
-| **[ml-practice](https://github.com/tgiovanni277-ship-it/ml-practice)** | Regression models (Decision Tree, Linear Regression) and EDA on real-world datasets |
-| **[PDS-006-Servicios](https://github.com/tgiovanni277-ship-it/PDS-006-Servicios)** | System for tracking external technology and biomedical equipment |
-| **[GodewValley](https://github.com/tgiovanni277-ship-it/GodewValley)** | 2D farming simulation game built with Godot Engine 4 & GDScript — plant, grow, and sell coffee crops |
-<br/>
-
