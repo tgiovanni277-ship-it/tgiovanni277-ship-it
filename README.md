@@ -1,5 +1,4 @@
-<h3 align="center">
-  <img src="./" alt="header" width="100%" />
+
   <br/><br/>
   Welcome, I'm Giovanni Torres!
   <br/><br/>
