@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./linkedin_banner10.png" alt="header" width="100%" />
+  <img src="./" alt="header" width="100%" />
   <br/><br/>
   Welcome, I'm Giovanni Torres!
   <br/><br/>
